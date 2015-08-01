@@ -1,0 +1,5 @@
+<?xml version="1.0" ?>
+<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <setting data-jetpack-id="jid1-CKHySAadH4nL6Q@jetpack" pref="extensions.jid1-CKHySAadH4nL6Q@jetpack.font" pref-name="font" title="Font size of the panel:" type="integer"/>
+  <setting data-jetpack-id="jid1-CKHySAadH4nL6Q@jetpack" pref="extensions.jid1-CKHySAadH4nL6Q@jetpack.welcome" pref-name="welcome" title="Show welcome page on upgrade:" type="bool"/>
+</vbox>
